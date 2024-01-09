@@ -25,7 +25,7 @@
     <eventBufferSize>2000</eventBufferSize>
     <clientTimeoutMin>30</clientTimeoutMin>
 
-    <keyStoreLocation>${carbon.home}/repository/resources/security/wso2carbon.jks</keyStoreLocation>
+    <keyStoreLocation>${carbon.home}/repository/resources/security/wso2carbon.p12</keyStoreLocation>
     <keyStorePassword>wso2carbon</keyStorePassword>
 
     <dataReceiver name="Thrift">
